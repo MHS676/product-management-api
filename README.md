@@ -2,7 +2,7 @@ Product & Category Management System
 
 Overview
 
-This is a backend API built with Node.js, Express, TypeScript, and MongoDB for managing products and categories. The system allows users to:
+This is a backend API built with Node.js, Express, JavaScript, and MongoDB for managing products and categories. The system allows users to:
 
 Create, retrieve, and manage categories.
 
